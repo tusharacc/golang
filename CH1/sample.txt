@@ -1,0 +1,6 @@
+hello
+hello
+simple
+simple
+go lang
+golang
